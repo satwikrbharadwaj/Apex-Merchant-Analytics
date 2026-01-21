@@ -1,5 +1,5 @@
 # Apex Merchant Analytics | E-Commerce Performance Dashboard
-Overview
+# Overview
 
 Apex Merchant Analytics is a business intelligence dashboard built to analyze and monitor e-commerce sales performance across India. The solution provides actionable insights into revenue trends, regional performance, product categories, and payment behaviors through interactive visualizations.
 
